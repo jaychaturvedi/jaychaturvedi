@@ -1,4 +1,4 @@
-## Hi, I'm [Jay Chaturvedi] 👋
+## Hi, I'm Jay Chaturvedi 👋
 
 
 <!-- <a href="https://twitter.com/PiriyaNamit">
@@ -14,7 +14,7 @@
 <br/>
 
 
-- 🔭 I’m currently working at Bimaplan.co as Software Engineer Full Stack.
+- 🔭 I’m currently working at Bimaplan.co as Senior Software Engineer Full Stack.
 - 📫 How to reach me: [email](mailto:jaychaturvedi18@gmail.com), [LinkedIn](https://www.linkedin.com/in/jay-chaturvedi/)
 - 😄 Pronouns: He/His
 
