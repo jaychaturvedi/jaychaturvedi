@@ -1,7 +1,7 @@
 ## Hi, I'm Jay Chaturvedi 👋
 
 
-<a href="[https://twitter.com/PiriyaNamit](https://twitter.com/dangling_node)">
+<a href="https://twitter.com/dangling_node">
   <img align="left" alt="Jay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jay-chaturvedi/">
