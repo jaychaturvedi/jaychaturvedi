@@ -1,20 +1,20 @@
 ## Hi, I'm Jay Chaturvedi 👋
 
 
-<!-- <a href="https://twitter.com/PiriyaNamit">
-  <img align="left" alt="Namit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> -->
+<a href="[https://twitter.com/PiriyaNamit](https://twitter.com/dangling_node)">
+  <img align="left" alt="Jay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <a href="https://www.linkedin.com/in/jay-chaturvedi/">
-  <img align="left" alt="Namit's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Jay's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/jaychaturvedi">
-  <img align="left" alt="Namit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Jay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br/>
 <br/>
 
 
-- 🔭 I’m currently working at Bimaplan.co as Senior Software Engineer Full Stack.
+- 🔭 I’m currently working at Bimaplan.co as Lead Full Stack.
 - 📫 How to reach me: [email](mailto:jaychaturvedi18@gmail.com), [LinkedIn](https://www.linkedin.com/in/jay-chaturvedi/)
 - 😄 Pronouns: He/His
 
@@ -28,7 +28,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaychaturvedi&theme=dark&hide=TCL" />
 </a>
 
-<a href="https://github.com/namit-piriya">
+<a href="https://github.com/jaychaturvedi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaychaturvedi&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Jay's github stats"/>
 </a>
 
